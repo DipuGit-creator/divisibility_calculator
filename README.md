@@ -1,6 +1,11 @@
 
 > Open this page at [https://dipugit-creator.github.io/divisibility_calculator/](https://dipugit-creator.github.io/divisibility_calculator/)
 
+##Download PuTTy
+
+* PuTTy is required in this project for serial communication
+* Download at: <a href="https://www.putty.org/"> PuTTy </a>
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -22,3 +27,4 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
