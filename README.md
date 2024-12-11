@@ -1,7 +1,7 @@
 
 > Open this page at [https://dipugit-creator.github.io/divisibility_calculator/](https://dipugit-creator.github.io/divisibility_calculator/)
 
-##Download PuTTy
+## Download PuTTy
 
 * PuTTy is required in this project for serial communication
 * Download at: <a href="https://www.putty.org/"> PuTTy </a>
