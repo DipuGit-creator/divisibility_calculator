@@ -2,5 +2,5 @@ CIRCUIT
 
 micro:bit GPIO expansion board VCC > I2C LCD VCC
 micro:bit GPIO expansion board GND > I2C LCD GND
-micro:bit GPIO expansion board SDA > I2C LCD SDA
-micro:bit GPIO expansion board SCL > I2C LCD SCL
+micro:bit GPIO expansion board SDA (P20) > I2C LCD SDA
+micro:bit GPIO expansion board SCL (P19) > I2C LCD SCL
