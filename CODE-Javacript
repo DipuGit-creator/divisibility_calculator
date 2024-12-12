@@ -1,6 +1,3 @@
-<code>
-//Code
-
 I2C_LCD1602.LcdInit(0)
 serial.redirectToUSB()
 I2C_LCD1602.on()
@@ -41,4 +38,4 @@ if (x % y == 0) {
     basic.pause(2000)
     control.reset()
 }
-</code>
+
