@@ -1,0 +1,6 @@
+Working of project:
+
+ * The numbers are entered in the Serial window.
+ * The micro:bit calculates the remainder by dividing the first number by the second one.
+ * If the remainder is 0, then the micro:bit displays a "tick" icon, plays happy sound, and the LCD prints required output.
+ * If the remainder is not 0, then the micro:bit displays a "cross" icon, plays sad sound, and the LCD prints required output.
