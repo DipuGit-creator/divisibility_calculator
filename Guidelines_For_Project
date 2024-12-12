@@ -1,0 +1,18 @@
+ These are the guidelines for the project:
+
+ * Requires micro:bit and GPIO expansion board.
+ * Requires PuTTY and supported Operating System.
+ * LCD is optional.
+ **This project is intended for educational purpose only.**
+
+These are the guidelines for using PuTTY:
+
+ * Download PuTTY from the given link in README.md.
+ * Start PuTTY.
+ * Grant all required permissions.
+ * Select communication type to "Serial".
+ * Type in the COM port for miro:bit.
+ * Click save if you want.
+ * Click open.
+ * Once in terminal, type in first number and then press space. The number appears in the terminal window.
+ * Then type second number and press space. The second number also appears in the window and the two numbers are separated by an "and".
